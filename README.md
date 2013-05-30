@@ -1,7 +1,9 @@
 ExpressionEngine Bootstrap
 ==============
 
-Bootstrap your EE environment anywhere you want. Also includes a handy EE template parser.
+Bootstrap your EE environment anywhere you want. Can be useful when you need to run a cronjob or - like me - need to combine both ZendFramework and ExrpessionEngine in one project. 
+
+**Also includes a handy EE template parser.**
 
 Example of using the EE super global in a part ZendFramework 1.x, part ExpressionEngine 2.x environment.
 
