@@ -1,7 +1,7 @@
 ExpressionEngine Bootstrap
 ==============
 
-Bootstrap your EE environment anywhere you want. Can be useful when you need to run a cronjob or - like me - need to combine both ZendFramework and ExrpessionEngine in one project. 
+Bootstrap your EE environment anywhere you want. Can be useful when you need to run a cronjob or - like me - need to combine both ZendFramework and ExpressionEngine in one project. 
 
 **Also includes a handy EE template parser.**
 
